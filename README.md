@@ -5,7 +5,9 @@ e-mail: dannypiron@gmail.com
 
 ## Professional Summary
  * **Citigroup Derivatives Markets Inc. (CDMI), Jersey City, NJ**
-   Technical Lead/Architect for SDLC Tools Development ~ *2005-Present*
+   ERA II - Technical Lead/Architect for SDLC Tools Development ~ *2015-Present*
+ * **Citigroup Derivatives Markets Inc. (CDMI), Jersey City, NJ**
+   ERA I - Software Configuration Management ~ *2005-2015*
  * **Sanrio International, Fort Lee, NJ**
    Product Concept Art Design ~ *2004-2005*
  * **el-bohio.com, Queens, NY**
@@ -59,8 +61,25 @@ e-mail: dannypiron@gmail.com
 
 ## Experience
 ### Citigroup Derivatives Markets Incorporated (CDMI), Jersey City, NJ
-**Technical Lead/Architect for SDLC Tools Development (VP)** ~ *2005-Present*
+**Technical Lead/Architect for SDLC Tools Development (VP)** ~ *2015-Present*
+ * Redesigned and lead the Python rewrite of in-house polyglot dependency
+   management and build system, maintaining significant backwards
+   compatibility with legacy system setting the stage for a Perforce to
+   Git transition.
+ * Promoted the use of Test Driven Development during Python rewrite
+   significantly facilitating the implementation of complex changes to
+   the code base.
+ * Lead effort to transition hundreds of developers from disparate teams
+   and thousands of build artifacts from Perforce to Git.
+ * Maintained an open and friendly work environment with offshore talent,
+   fostering a culture of personal growth and satisfaction where said talent
+   often feels motivated to exceed expectations.
+ * Conducted a weekly series of hour long educational sessions to provide
+   training and insight to our tools and build process increasing user
+   competence and satisfaction.
 
+### Citigroup Derivatives Markets Incorporated (CDMI), Jersey City, NJ
+**Software Configuration Management** ~ *2005-2015*
  * Unified nearly a dozen disparate builds, making up over 700 build artifacts,
    into a single continuously integrated process through the development of a
    makefile-free, multi-platform (Win32, Linux 32/64) and multi-language (C++,
