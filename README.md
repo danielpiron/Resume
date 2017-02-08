@@ -5,7 +5,7 @@ e-mail: dannypiron@gmail.com
 
 ## Professional Summary
  * **Citigroup Derivatives Markets Inc. (CDMI), Jersey City, NJ**
-   Software Configuration Management ~ *2005-Present*
+   Technical Lead/Architect for SDLC Tools Development ~ *2005-Present*
  * **Sanrio International, Fort Lee, NJ**
    Product Concept Art Design ~ *2004-2005*
  * **el-bohio.com, Queens, NY**
@@ -59,7 +59,7 @@ e-mail: dannypiron@gmail.com
 
 ## Experience
 ### Citigroup Derivatives Markets Incorporated (CDMI), Jersey City, NJ
-**Software Configuration Manager - VP** ~ *2005-Present*
+**Technical Lead/Architect for SDLC Tools Development (VP)** ~ *2005-Present*
 
  * Unified nearly a dozen disparate builds, making up over 700 build artifacts,
    into a single continuously integrated process through the development of a
