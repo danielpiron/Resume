@@ -25,9 +25,9 @@ e-mail: dannypiron@gmail.com
 
 ## Technical Experience
 
-* **Operating Systems** - Redhat Linux, Windows, Solaris
-* **Languages** - C/C++, Perl, BASH, PHP, Javascript, XML, Java, Visual Basic,
-                  x86 Assembler, MMX, SQL
+* **Operating Systems** - Linux, MacOS, Solaris, Windows
+* **Languages** - Python, Perl, PHP, Bash, Javascript, C++, C, Java,
+                  Visual Basic, x86 Assembler, MMX, SQL
 * **Databases** - Oracle, MySQL, SQLite, Microsoft Access
 
 ## Education
