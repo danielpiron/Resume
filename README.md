@@ -127,6 +127,12 @@ e-mail: dannypiron@gmail.com
    various authors to request stock photo material from site.
  * Contributed material to website's archive of world-class photography.
 
+### Freelance Photo Retouch and Editing
+**Photo retouch and editing** - *2002-2005*
+ * Removed artifacts, scratches, discolorations, rips.
+ * Seamlessly merged torn photographs.
+ * Colorized black & white photos.
+
 ### Opal Group, New York, NY
 **PalmOS Software Development** - *May-July 2000*
 
