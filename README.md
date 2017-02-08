@@ -4,15 +4,15 @@ Tel: 718-570-6310
 e-mail: dannypiron@gmail.com
 
 ## Professional Summary
- * **Citigroup Derivatives Markets Inc. (CDMI), Jersey City, NJ**
+ * **Citigroup Derivatives Markets Inc. (CDMI), Jersey City, NJ** -
    ERA II - Technical Lead/Architect for SDLC Tools Development ~ *2015-Present*
- * **Citigroup Derivatives Markets Inc. (CDMI), Jersey City, NJ**
+ * **Citigroup Derivatives Markets Inc. (CDMI), Jersey City, NJ** -
    ERA I - Software Configuration Management ~ *2005-2015*
- * **Sanrio International, Fort Lee, NJ**
+ * **Sanrio International, Fort Lee, NJ** -
    Product Concept Art Design ~ *2004-2005*
- * **el-bohio.com, Queens, NY**
+ * **el-bohio.com, Queens, NY** -
    Web Design and Administration ~ *2001-2006*
- * **Opal Group, New York, NY**
+ * **Opal Group, New York, NY** -
    Handheld Software Development ~ *May-July 2000*
 
 ## Strengths
@@ -21,8 +21,8 @@ e-mail: dannypiron@gmail.com
    challenges.
  * Accustomed to and thrives in a high pressure and fast paced working
    environment with breakneck release cycles.
- * Skilled in Object-Oriented Perl and is knowledgeable in cross-platform
-   development.
+ * Skilled in Python and Objected-Oriented Perl, and is knowledgeable in
+   cross-platform development.
  * Is fun to work with.
 
 ## Technical Experience
