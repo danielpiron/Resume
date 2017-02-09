@@ -51,7 +51,7 @@ e-mail: dannypiron@gmail.com
 ## Fun Facts
  * As a self taught musical composer, created and orchestrated an original
    bridal chorus “Veronica Enters” for his own wedding.
- * Lists greatest achievement as having becoming a homeowner, husband, and
+ * Lists greatest achievement as having become a homeowner, husband, and
    father all within the span of a year.
  * Has been flying remote controlled model airplanes with father, as a hobby,
    since the age of 8, serving as the de facto pilot for maiden flights.
