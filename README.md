@@ -4,6 +4,7 @@ Tel: 718-570-6310
 e-mail: dannypiron@gmail.com
 
 ## Professional Summary
+
  * **Citigroup Derivatives Markets Inc. (CDMI), Jersey City, NJ** -
    ERA II - Technical Lead/Architect for SDLC Tools Development ~ *2015-Present*
  * **Citigroup Derivatives Markets Inc. (CDMI), Jersey City, NJ** -
@@ -16,6 +17,7 @@ e-mail: dannypiron@gmail.com
    Handheld Software Development ~ *May-July 2000*
 
 ## Strengths
+
  * Has a profound understanding of the design concepts of complex distributed
    systems and readily applies this knowledge to daily troubleshooting
    challenges.
@@ -37,6 +39,7 @@ e-mail: dannypiron@gmail.com
 **Queens College, CUNY - Computer Science Bachelors of Science** ~ *May 2002*
 
 ## Honors And Awards
+
  * Received Citigroup’s Award for Excellence in Performance (2006)
  * Graduated Cum Laude (2002)
  * Nucleus - Scientific Journal of Queens College, CUNY, Production/Layout
@@ -50,6 +53,7 @@ e-mail: dannypiron@gmail.com
  * Dean’s List (Fall 1997-Fall 1999, Spring 2001-Fall 2002)
 
 ## Fun Facts
+
  * As a self taught musical composer, created and orchestrated an original
    bridal chorus “Veronica Enters” for his own wedding.
  * Lists greatest achievement as having become a homeowner, husband, and
@@ -63,6 +67,7 @@ e-mail: dannypiron@gmail.com
 ## Experience
 ### Citigroup Derivatives Markets Incorporated (CDMI), Jersey City, NJ
 **Technical Lead/Architect for SDLC Tools Development (VP)** ~ *2015-Present*
+
  * Redesigned and lead the Python rewrite of in-house polyglot dependency
    management and build system, maintaining significant backwards
    compatibility with legacy system setting the stage for a Perforce to
@@ -81,6 +86,7 @@ e-mail: dannypiron@gmail.com
 
 ### Citigroup Derivatives Markets Incorporated (CDMI), Jersey City, NJ
 **Software Configuration Management** ~ *2005-2015*
+
  * Unified nearly a dozen disparate builds, making up over 700 build artifacts,
    into a single continuously integrated process through the development of a
    makefile-free, multi-platform (Win32, Linux 32/64) and multi-language (C++,
@@ -130,6 +136,7 @@ e-mail: dannypiron@gmail.com
 
 ### Freelance Photo Retouch and Editing
 **Photo retouch and editing** - *2002-2005*
+
  * Removed artifacts, scratches, discolorations, rips.
  * Seamlessly merged torn photographs.
  * Colorized black & white photos.
