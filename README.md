@@ -21,15 +21,16 @@ e-mail: dannypiron@gmail.com
    challenges.
  * Accustomed to and thrives in a high pressure and fast paced working
    environment with breakneck release cycles.
- * Skilled in Python and Objected-Oriented Perl, and is knowledgeable in
-   cross-platform development.
+ * Skilled in Python, Javascript, and is knowledgeable in cross-platform
+   development.
+ * Familiar with PHP frameworks such as The Zend Framework and Doctrine.
  * Is fun to work with.
 
 ## Technical Experience
 
 * **Operating Systems** - Linux, MacOS, Solaris, Windows
-* **Languages** - Python, Perl, PHP, Bash, Javascript, C++, C, Java,
-                  Visual Basic, x86 Assembler, MMX, SQL
+* **Languages** - Python, Javascript, Perl, PHP, HTML, CSS (Sass), C++, C, Bash
+                  Shell, Java, Visual Basic, x86 Assembler, MMX, SQL
 * **Databases** - Oracle, MySQL, SQLite, Microsoft Access
 
 ## Education
