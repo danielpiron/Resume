@@ -5,7 +5,7 @@ e-mail: dannypiron@gmail.com
 
 ## Professional Summary
  * **Citigroup Derivatives Markets Inc. (CDMI), Jersey City, NJ** -
-   ERA III - Application Test Utility Development ~ *2019-Present*
+   ERA III - Application Test Utility Development and DevOps ~ *2019-Present*
  * **Citigroup Derivatives Markets Inc. (CDMI), Jersey City, NJ** -
    ERA II - Technical Lead/Architect for SDLC Tools Development ~ *2015-2019*
  * **Citigroup Derivatives Markets Inc. (CDMI), Jersey City, NJ** -
@@ -31,11 +31,14 @@ e-mail: dannypiron@gmail.com
 * **Languages** - C++, Python, Perl, Bash, C, Javascript, Java, PHP, SQL,
                   Visual Basic, MOS 6502, x86 Assembler, MMX
 * **Databases** - Oracle, PostgresSQL, MySQL, SQLite, Microsoft Access
-* **DevOps Tools** - Jira, Bitbucket, Jenkins, Teamcity, ITRS
+* **DevOps Tools** - Jira, Bitbucket, Jenkins, Teamcity, Docker, SonarCube, ITRS
 
 ## Education
 **Queens College, CUNY - Computer Science Bachelors of Science** ~ *May 2002*
+
 ## Honors And Awards
+ * Citi Gratitude Gold Award "Works as a Partner" (July 2020)
+ * Citi Gratitude Copper Award "Works as a Partner" (February 2020)
  * Received Citigroup’s Award for Excellence in Performance (2006)
  * Graduated Cum Laude (2002)
  * Nucleus - Scientific Journal of Queens College, CUNY, Production/Layout
@@ -63,8 +66,11 @@ e-mail: dannypiron@gmail.com
    were used to better allocate resources in production system. The wrapper was
    also shared with other groups through out Citi accelerating the efforts of
    other C++ based teams to adopt ITRS as their monitoring system.
- * Managed Jira, Bitbucket, Jenkins, Teamcity instances that were part of the
-   DevOps infrastructure.
+ * Managed Jira, Bitbucket, Jenkins, Teamcity, SonarCube instances that were
+   part of the DevOps infrastructure.
+ * Developed Docker based prototype build and runtime enviornments for
+   application transitioning from Windows .NET to DotNET Core on Linux.
+ * Adapted SonarCube reporting into custom builds workflow.
 
 ### Citigroup Derivatives Markets Incorporated (CDMI), Jersey City, NJ
 **Technical Lead/Architect for SDLC Tools Development and DevOps** ~ *2015-2019*
