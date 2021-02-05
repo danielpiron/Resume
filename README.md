@@ -1,11 +1,13 @@
 # Daniel Piron
-**Software Configuration Manager/Analyst/Tools Developer**
+**Apps Dev Tech Lead Analyst**
 Tel: 718-570-6310
 e-mail: dannypiron@gmail.com
 
 ## Professional Summary
  * **Citigroup Derivatives Markets Inc. (CDMI), Jersey City, NJ** -
-   ERA II - Technical Lead/Architect for SDLC Tools Development ~ *2015-Present*
+   ERA III - Application Test Utility Development ~ *2019-Present*
+ * **Citigroup Derivatives Markets Inc. (CDMI), Jersey City, NJ** -
+   ERA II - Technical Lead/Architect for SDLC Tools Development ~ *2015-2019*
  * **Citigroup Derivatives Markets Inc. (CDMI), Jersey City, NJ** -
    ERA I - Software Configuration Management ~ *2005-2015*
  * **Sanrio International, Fort Lee, NJ** -
@@ -21,20 +23,18 @@ e-mail: dannypiron@gmail.com
    challenges.
  * Accustomed to and thrives in a high pressure and fast paced working
    environment with breakneck release cycles.
- * Skilled in Python and Objected-Oriented Perl, and is knowledgeable in
-   cross-platform development.
- * Is fun to work with.
+ * Skilled in C, C++, Python, and Objected-Oriented Perl, and is knowledgeable
+   in cross-platform development.
 
 ## Technical Experience
-
 * **Operating Systems** - Linux, MacOS, Solaris, Windows
-* **Languages** - Python, Perl, PHP, Bash, Javascript, C++, C, Java,
-                  Visual Basic, x86 Assembler, MMX, SQL
-* **Databases** - Oracle, MySQL, SQLite, Microsoft Access
+* **Languages** - C++, Python, Perl, Bash, C, Javascript, Java, PHP, SQL,
+                  Visual Basic, MOS 6502, x86 Assembler, MMX
+* **Databases** - Oracle, PostgresSQL, MySQL, SQLite, Microsoft Access
+* **DevOps Tools** - Jira, Bitbucket, Jenkins, Teamcity, ITRS
 
 ## Education
 **Queens College, CUNY - Computer Science Bachelors of Science** ~ *May 2002*
-
 ## Honors And Awards
  * Received Citigroup’s Award for Excellence in Performance (2006)
  * Graduated Cum Laude (2002)
@@ -48,20 +48,29 @@ e-mail: dannypiron@gmail.com
    composition (1997)
  * Dean’s List (Fall 1997-Fall 1999, Spring 2001-Fall 2002)
 
-## Fun Facts
- * As a self taught musical composer, created and orchestrated an original
-   bridal chorus “Veronica Enters” for his own wedding.
- * Lists greatest achievement as having become a homeowner, husband, and
-   father all within the span of a year.
- * Has been flying remote controlled model airplanes with father, as a hobby,
-   since the age of 8, serving as the de facto pilot for maiden flights.
-
-## Personal Quote
-> "Great minds don't really think alike. That's what makes them great."
-
 ## Experience
+
 ### Citigroup Derivatives Markets Incorporated (CDMI), Jersey City, NJ
-**Technical Lead/Architect for SDLC Tools Development (VP)** ~ *2015-Present*
+**ERA III - Application Monitoring and Test Utility Development and DevOps** ~ *2015-Present*
+ * Enhanced legacy trading application to allow it to run stand-alone (without
+   a lab testing environment) by transparently mocking inputs requiring no
+   modification to core components.
+ * Created regression test application to detect inconistencies in quant code
+   between releases of the application by replaying trades and reliability
+   reproducing curve movement.
+ * Designed C++ wrapper to ITRS monitoring XMLRPC API. This wrapper was
+   subsequently used to report previously obscured performance statistics that
+   were used to better allocate resources in production system. The wrapper was
+   also shared with other groups through out Citi accelerating the efforts of
+   other C++ based teams to adopt ITRS as their monitoring system.
+ * Managed Jira, Bitbucket, Jenkins, Teamcity instances that were part of the
+   DevOps infrastructure.
+
+### Citigroup Derivatives Markets Incorporated (CDMI), Jersey City, NJ
+**Technical Lead/Architect for SDLC Tools Development and DevOps** ~ *2015-2019*
+ * Tied Jira workflow to Bitbucket pull request approval and merge process
+   promoting a consistent flow for developers that succictly abided by all
+   audit requirements.
  * Redesigned and lead the Python rewrite of in-house polyglot dependency
    management and build system, maintaining significant backwards
    compatibility with legacy system setting the stage for a Perforce to
@@ -148,6 +157,14 @@ e-mail: dannypiron@gmail.com
  * Exemplary writing ability.
  * Natural public speaker.
  * Bilingual; Fluent in English and Spanish.
+
+## Fun Facts
+ * As a self taught musical composer, created and orchestrated an original
+   bridal chorus “Veronica Enters” for his own wedding.
+ * Lists greatest achievement as having become a homeowner, husband, and
+   father all within the span of a year.
+ * Has been flying remote controlled model airplanes with father, as a hobby,
+   since the age of 8, serving as the de facto pilot for maiden flights.
 
 ## References
 *Available upon request*
