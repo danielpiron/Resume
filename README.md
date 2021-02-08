@@ -31,7 +31,7 @@ e-mail: dannypiron@gmail.com
 * **Languages** - C++, Python, Perl, Bash, C, Javascript, Java, PHP, SQL,
                   Visual Basic, MOS 6502, x86 Assembler, MMX
 * **Databases** - Oracle, PostgresSQL, MySQL, SQLite, Microsoft Access
-* **DevOps Tools** - Jira, Bitbucket, Jenkins, Teamcity, Docker, SonarCube, ITRS
+* **DevOps Tools** - Git, Jira, Bitbucket, Jenkins, Artifactory, Teamcity, Docker, SonarCube, ITRS
 
 ## Education
 **Queens College, CUNY - Computer Science Bachelors of Science** ~ *May 2002*
@@ -39,56 +39,69 @@ e-mail: dannypiron@gmail.com
 ## Honors And Awards
  * Citi Gratitude Gold Award "Works as a Partner" (July 2020)
  * Citi Gratitude Copper Award "Works as a Partner" (February 2020)
- * Received Citigroup’s Award for Excellence in Performance (2006)
+ * Citigroup Award for Excellence in Performance (2006)
  * Graduated Cum Laude (2002)
  * Nucleus - Scientific Journal of Queens College, CUNY, Production/Layout
    Manager (2000-2002)
  * Golden Key Honor Society, Member (1999-2002)
  * Queens College Honors in Math and Natural Science, Member & IT Administrator
    (1998-2002)
+ * Dean’s List (Fall 1997-Fall 1999, Spring 2001-Fall 2002)
  * Queens College Presidential Honors Award Recipient (1997)
  * Bertelsmann's "World of Expression" Scholarship, Fifth place in musical
    composition (1997)
- * Dean’s List (Fall 1997-Fall 1999, Spring 2001-Fall 2002)
 
 ## Experience
 
 ### Citigroup Derivatives Markets Incorporated (CDMI), Jersey City, NJ
 **ERA III - Application Monitoring and Test Utility Development and DevOps** ~ *2015-Present*
- * Enhanced legacy trading application to allow it to run stand-alone (without
-   a lab testing environment) by transparently mocking inputs requiring no
-   modification to core components.
- * Created regression test application to detect inconistencies in quant code
-   between releases of the application by replaying trades and reliability
+ * Enhanced legacy trading application allowing it to run stand-alone (without
+   a lab testing environment) by transparently mocking database, marketdata,
+   quant, and user inputs requiring no modification to core components.
+ * Designed test framework along with a scripting language for injecting inputs
+   into trading applications and specifying assertions providing a stable
+   foundation and confidence that errors would be found early and dealt with
+   quickly.
+ * Created regression test application for detecting inconistencies in quant
+   code between releases of the application by replaying trades and reliability
    reproducing curve movement.
  * Designed C++ wrapper to ITRS monitoring XMLRPC API. This wrapper was
-   subsequently used to report previously obscured performance statistics that
-   were used to better allocate resources in production system. The wrapper was
-   also shared with other groups through out Citi accelerating the efforts of
-   other C++ based teams to adopt ITRS as their monitoring system.
+   subsequently used to report obscure performance statistics and was used to
+   better allocate resources in production system. The wrapper was also shared
+   with other groups through out Citi accelerating the efforts of other C++
+   based teams to adopt ITRS as their monitoring system.
+ * Built a daily release impact report combining data from Jira, Bitbucket, and
+   our custom build system indicating which Jiras targeting were missing pull
+   requests, which still had unmerged requests, and which applications were
+   affected by which issues. This report provided tremendous transparency of
+   the current state of the release for the Dev and QA teams.
  * Managed Jira, Bitbucket, Jenkins, Teamcity, SonarCube instances that were
    part of the DevOps infrastructure.
+ * Tied Jira workflow to Bitbucket pull request approval and merge process
+   promoting a consistent flow and clean hand-off between Dev and QA that
+   succictly abided by all audit requirements.
  * Developed Docker based prototype build and runtime enviornments for
    application transitioning from Windows .NET to DotNET Core on Linux.
  * Adapted SonarCube reporting into custom builds workflow.
 
 ### Citigroup Derivatives Markets Incorporated (CDMI), Jersey City, NJ
 **Technical Lead/Architect for SDLC Tools Development and DevOps** ~ *2015-2019*
- * Tied Jira workflow to Bitbucket pull request approval and merge process
-   promoting a consistent flow for developers that succictly abided by all
-   audit requirements.
- * Redesigned and lead the Python rewrite of in-house polyglot dependency
-   management and build system, maintaining significant backwards
-   compatibility with legacy system setting the stage for a Perforce to
-   Git transition.
+ * Redesigned the Python rewrite of in-house multi-language (C++, C#, Java) and
+   cross-platform (Windows & Linux) dependency management and build system,
+   maintaining significant backwards compatibility with legacy system setting
+   the stage for a Perforce to Git transition.
  * Promoted the use of Test Driven Development during Python rewrite
    significantly facilitating the implementation of complex changes to
    the code base.
+ * Optimized initial step of build system dependency analysis reducing
+   initialization times by 90% on average.
  * Lead effort to transition hundreds of developers from disparate teams
    and thousands of build artifacts from Perforce to Git.
+ * Cleanly architected transition between disparate artifact storage on Windows
+   and Linux to Artifactory resulting in zero downtime for users.
  * Maintained an open and friendly work environment with offshore talent,
    fostering a culture of personal growth and satisfaction where said talent
-   often feels motivated to exceed expectations.
+   often felt motivated to exceed expectations.
  * Conducted a weekly series of hour long educational sessions to provide
    training and insight to our tools and build process increasing user
    competence and satisfaction.
@@ -98,14 +111,16 @@ e-mail: dannypiron@gmail.com
  * Unified nearly a dozen disparate builds, making up over 700 build artifacts,
    into a single continuously integrated process through the development of a
    makefile-free, multi-platform (Win32, Linux 32/64) and multi-language (C++,
-   Managed C++, CSharp, Java) automated system allowing anyone to add a new
-   project to the build simply by checking in source and providing a list of
-   required dependencies.
+   Managed C++, CSharp, Java) automated system (written in Perl) allowing users
+   to add a new project to the build simply by checking in source and providing
+   a list of required dependencies. This also facilated efforts to port
+   applications from Windows to Linux as the first step was to sipmly specify
+   Linux as a platform.
  * Automated in-house code generation routines and seamlessly integrated them
    into our code management system replacing manually run ad hoc scripts
-   previously maintained by individual developers eliminating 95% of build
+   previously maintained by individual developers eliminating 99% of build
    errors due to code generation.
- * Implemented a simple dependency filtering mechanism that  resulted a 40%
+ * Implemented a simple dependency filtering mechanism resulting a 40%
    decrease in build times by better targeting artifacts by platform. Further
    gains in performance were made by reducing the number of calls to the SCM by
    60% in selected processes.
@@ -123,8 +138,8 @@ e-mail: dannypiron@gmail.com
    tools including code comparison, debuggers and dependency analyzers.
  * Was tasked with migrating and adapting QA and Development laboratories to
    Citigroup’s SOE environment.
- * Supported releases to operations facilities in North America, Europe, and
-   Asia.
+ * Supported releases to operations facilities in North America, EMEA, and
+   APAC regions.
  * Achieved a high level of respected for creative thinking, reliability,
    integrity, wit, and charm.
 
