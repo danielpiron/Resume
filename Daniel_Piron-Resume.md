@@ -1,32 +1,19 @@
 # Daniel Piron
-**Apps Dev Tech Lead Analyst**
-Tel: 718-570-6310
-e-mail: dannypiron@gmail.com
+## Software Engineer with a Flair for DevOps
+Tel: 718-570-6310, e-mail: dannypiron@gmail.com
 
-## Professional Summary
- * **Citigroup Derivatives Markets Inc. (CDMI), Jersey City, NJ** -
-   ERA III - Application Test Utility Development and DevOps ~ *2019-Present*
- * **Citigroup Derivatives Markets Inc. (CDMI), Jersey City, NJ** -
-   ERA II - Technical Lead/Architect for SDLC Tools Development ~ *2015-2019*
- * **Citigroup Derivatives Markets Inc. (CDMI), Jersey City, NJ** -
-   ERA I - Software Configuration Management ~ *2005-2015*
- * **el-bohio.com, Queens, NY** -
-   Web Design and Administration ~ *2001-2006*
- * **Opal Group, New York, NY** -
-   Handheld Software Development ~ *May-July 2000*
-
-## Strengths
- * Has a profound understanding of the design concepts of complex distributed
-   systems and readily applies this knowledge to daily troubleshooting
-   challenges.
- * Accustomed to and thrives in a high pressure and fast paced working
-   environment with breakneck release cycles.
- * Skilled in C, C++, Python, and Objected-Oriented Perl, and is knowledgeable
-   in cross-platform development.
+## Summary
+With over 15 years of experience in the financial sector, Daniel has a profound
+understanding of the design concepts of complex distributed systems and readily
+applies this knowledge to daily troubleshooting challenges. He is accustomed to
+and thrives in a high pressure and fast paced working environment with
+breakneck release cycles. Daniel is skilled in C, C++, Python, and
+Objected-Oriented Perl, and Bash, and is knowledgeable in cross-platform
+development.
 
 ## Technical Experience
 * **Operating Systems** - Linux, MacOS, Solaris, Windows
-* **Languages** - C++, Python, Perl, Bash, C, Javascript, Java, PHP, SQL,
+* **Languages** - C++, C, Python, Bash, Perl, Javascript, Java, PHP, SQL,
                   Visual Basic, MOS 6502, x86 Assembler, MMX
 * **Databases** - Oracle, PostgresSQL, MySQL, SQLite, Microsoft Access
 * **DevOps Tools** - Git, Jira, Bitbucket, Jenkins, Artifactory, Teamcity, Docker, SonarCube, ITRS
@@ -132,6 +119,14 @@ e-mail: dannypiron@gmail.com
  * Exemplary writing ability.
  * Natural public speaker.
  * Bilingual; Fluent in English and Spanish.
+
+## Fun Facts
+ * As a self taught musical composer, created and orchestrated an original
+   bridal chorus “Veronica Enters” for his own wedding.
+ * Lists greatest achievement as having become a homeowner, husband, and father
+   all within the span of a year.
+ * Has been flying remote controlled model airplanes with father, as a hobby,
+   since the age of 8, serving as the de facto pilot for maiden flights.
 
 ## References
 *Available upon request*
