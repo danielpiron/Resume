@@ -10,8 +10,6 @@ e-mail: dannypiron@gmail.com
    ERA II - Technical Lead/Architect for SDLC Tools Development ~ *2015-2019*
  * **Citigroup Derivatives Markets Inc. (CDMI), Jersey City, NJ** -
    ERA I - Software Configuration Management ~ *2005-2015*
- * **Sanrio International, Fort Lee, NJ** -
-   Product Concept Art Design ~ *2004-2005*
  * **el-bohio.com, Queens, NY** -
    Web Design and Administration ~ *2001-2006*
  * **Opal Group, New York, NY** -
