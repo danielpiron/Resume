@@ -36,51 +36,33 @@ e-mail: dannypiron@gmail.com
 ## Education
 **Queens College, CUNY - Computer Science Bachelors of Science** ~ *May 2002*
 
-## Honors And Awards
- * Citi Gratitude Gold Award "Works as a Partner" (July 2020)
- * Citi Gratitude Copper Award "Works as a Partner" (February 2020)
- * Citigroup Award for Excellence in Performance (2006)
- * Graduated Cum Laude (2002)
- * Nucleus - Scientific Journal of Queens College, CUNY, Production/Layout
-   Manager (2000-2002)
- * Golden Key Honor Society, Member (1999-2002)
- * Queens College Honors in Math and Natural Science, Member & IT Administrator
-   (1998-2002)
- * Dean’s List (Fall 1997-Fall 1999, Spring 2001-Fall 2002)
- * Queens College Presidential Honors Award Recipient (1997)
- * Bertelsmann's "World of Expression" Scholarship, Fifth place in musical
-   composition (1997)
-
 ## Experience
 
 ### Citigroup Derivatives Markets Incorporated (CDMI), Jersey City, NJ
-**ERA III - Application Monitoring and Test Utility Development and DevOps** ~ *2015-Present*
- * Enhanced legacy trading application allowing it to run stand-alone (without
-   a lab testing environment) by transparently mocking database, marketdata,
-   quant, and user inputs requiring no modification to core components.
- * Designed test framework along with a scripting language for injecting inputs
-   into trading applications and specifying assertions providing a stable
-   foundation and confidence that errors would be found early and dealt with
-   quickly.
+**ERA III - Application Monitoring and Test Utility Development and DevOps** ~ *2019-Present*
+ * Developed test framework for high frequency trading application development.
+   Framework allows users to specify database, market data, quant, and GUI user
+   inputs via a custom scripting language along with assertions for matching
+   expected application.
  * Created regression test application for detecting inconistencies in quant
    code between releases of the application by replaying trades and reliability
    reproducing curve movement.
- * Designed C++ wrapper to ITRS monitoring XMLRPC API. This wrapper was
-   subsequently used to report obscure performance statistics and was used to
-   better allocate resources in production system. The wrapper was also shared
-   with other groups through out Citi accelerating the efforts of other C++
-   based teams to adopt ITRS as their monitoring system.
+ * Designed C++ wrapper to ITRS monitoring XMLRPC API reporting obscure
+   performance statistics and better allocating resources in production system.
+   Wrapper subsequently shared with other groups through out Citi to accelerate
+   firm wide efforts to adopt ITRS as a monitoring tool.
  * Built a daily release impact report combining data from Jira, Bitbucket, and
    our custom build system indicating which Jiras targeting were missing pull
-   requests, which still had unmerged requests, and which applications were
-   affected by which issues. This report provided tremendous transparency of
-   the current state of the release for the Dev and QA teams.
- * Managed Jira, Bitbucket, Jenkins, Teamcity, SonarCube instances that were
-   part of the DevOps infrastructure.
+   requests provided tremendous transparency of the current state of the
+   release for the Dev and QA teams.
  * Tied Jira workflow to Bitbucket pull request approval and merge process
    promoting a consistent flow and clean hand-off between Dev and QA that
-   succictly abided by all audit requirements.
- * Developed Docker based prototype build and runtime enviornments for
+   succinctly abided by audit requirements.
+ * Collaborated closely with production staff creating a seamless process for
+   transferring artifacts, documentation, database scripts, etc.
+ * Managed Jira, Bitbucket, Jenkins, Teamcity, SonarCube instances that were
+   part of the DevOps infrastructure.
+ * Developed Docker based prototype build and runtime environments for
    application transitioning from Windows .NET to DotNET Core on Linux.
  * Adapted SonarCube reporting into custom builds workflow.
 
@@ -90,58 +72,43 @@ e-mail: dannypiron@gmail.com
    cross-platform (Windows & Linux) dependency management and build system,
    maintaining significant backwards compatibility with legacy system setting
    the stage for a Perforce to Git transition.
- * Promoted the use of Test Driven Development during Python rewrite
-   significantly facilitating the implementation of complex changes to
-   the code base.
- * Optimized initial step of build system dependency analysis reducing
-   initialization times by 90% on average.
  * Lead effort to transition hundreds of developers from disparate teams
    and thousands of build artifacts from Perforce to Git.
- * Cleanly architected transition between disparate artifact storage on Windows
-   and Linux to Artifactory resulting in zero downtime for users.
- * Maintained an open and friendly work environment with offshore talent,
-   fostering a culture of personal growth and satisfaction where said talent
-   often felt motivated to exceed expectations.
+ * Quality of architecture allowed transition between disparate artifact
+   storage on Windows and Linux to Artifactory resulting in zero downtime for
+   100s of users.
  * Conducted a weekly series of hour long educational sessions to provide
-   training and insight to our tools and build process increasing user
+   training and insight to our tools and build process improving user
    competence and satisfaction.
 
 ### Citigroup Derivatives Markets Incorporated (CDMI), Jersey City, NJ
 **Software Configuration Management** ~ *2005-2015*
- * Unified nearly a dozen disparate builds, making up over 700 build artifacts,
-   into a single continuously integrated process through the development of a
-   makefile-free, multi-platform (Win32, Linux 32/64) and multi-language (C++,
-   Managed C++, CSharp, Java) automated system (written in Perl) allowing users
-   to add a new project to the build simply by checking in source and providing
-   a list of required dependencies. This also facilated efforts to port
-   applications from Windows to Linux as the first step was to sipmly specify
-   Linux as a platform.
+ * Developed build and dependency management system (in Perl) unifying nearly a
+   dozen disparate builds, making up over 700 build artifacts, into a single
+   continuously integrated process through the development of a cross-platform
+   (Win32, Linux 32/64) and multi-language (C++, Managed C++, CSharp, Java).
+   Users could add a new project to the build simply by checking in source and
+   providing a list of required dependencies. This also facilitated efforts to
+   port applications from Windows to Linux. 
  * Automated in-house code generation routines and seamlessly integrated them
    into our code management system replacing manually run ad hoc scripts
    previously maintained by individual developers eliminating 99% of build
    errors due to code generation.
- * Implemented a simple dependency filtering mechanism resulting a 40%
-   decrease in build times by better targeting artifacts by platform. Further
-   gains in performance were made by reducing the number of calls to the SCM by
-   60% in selected processes.
- * Designed and developed a process for source control configuration, based on
-   concepts of inheritance, allowing for the automated propagation of production
-   configs to over a dozen development and QA environments, reducing the config
-   set needed to properly maintain an environment from thousands of files to
-   under 20.
- * Created custom bindings between the Perforce source control management system
-   and TeamTrack (and later JIRA) issue tracking system(s) allowing management
-   to tightly control developer check-in increasing the reliability, fidelity and
-   transparency of the development cycle.
+ * Designed and developed a process for automating propagation of production
+   configuration files to over a dozen development and QA environments,
+   reducing the configuration set needed to properly maintain an environment
+   from thousands of files to under 20.
+ * Created custom bindings between the Perforce source control management
+   system and TeamTrack (and later JIRA) issue tracking system(s) allowing
+   management to tightly control developer check-in increasing the reliability,
+   fidelity and transparency of the development cycle.
  * Consistently called upon to troubleshoot issues in development, QA, and
    Production environments going above and beyond expected duties using various
    tools including code comparison, debuggers and dependency analyzers.
  * Was tasked with migrating and adapting QA and Development laboratories to
    Citigroup’s SOE environment.
- * Supported releases to operations facilities in North America, EMEA, and
-   APAC regions.
- * Achieved a high level of respected for creative thinking, reliability,
-   integrity, wit, and charm.
+ * Supported releases to operations facilities in North America, EMEA, and APAC
+   regions.
 
 ### Sanrio International, Fort Lee, NJ
 **Product Concept Art Design** - *2004-2005*
@@ -157,12 +124,6 @@ e-mail: dannypiron@gmail.com
    various authors to request stock photo material from site.
  * Contributed material to website's archive of world-class photography.
 
-### Freelance Photo Retouch and Editing
-**Photo retouch and editing** - *2002-2005*
- * Removed artifacts, scratches, discolorations, rips.
- * Seamlessly merged torn photographs.
- * Colorized black & white photos.
-
 ### Opal Group, New York, NY
 **PalmOS Software Development** - *May-July 2000*
 
@@ -172,6 +133,12 @@ e-mail: dannypiron@gmail.com
    development, testing and maintenance of PalmOS based technologies.
  * Performed minor HTML corrections to company web page and building
    workstations.
+
+## Professional Awards
+ * Citi Gratitude Gold Award "Works as a Partner" (July 2020)
+ * Citi Gratitude Copper Award "Works as a Partner" (February 2020)
+ * Citigroup Award for Excellence in Performance (2006)
+
 
 ## Additional Skills
  * Excellent interpersonal and communication skills.
