@@ -42,12 +42,14 @@ _Leading Options Market Making Application_ • 2005-Present
    Library widely adopted by C++ based teams throughout Citi.
  * Tied Jira workflow to Bitbucket pull request approval and merge process
    promoting an audit friendly clean hand-off between Dev and QA.
- * Collaborated with production staff to create seamless release processes.
- * Lead effort to transition hundreds of developers, from disparate teams,
-   and thousands of build artifacts from Perforce to Git.
- * Quality of architecture allowed transition between disjoint artifact storage
-   on Windows and Linux to Artifactory resulting in zero downtime for 100s of
+ * Lead Python rewrite of in-house multi-language (C++, C#, Java) and
+   cross-platform (Windows & Linux) dependency management and build system,
+   maintaining significant backwards compatibility with legacy system setting
+   the stage for a Perforce to Git transition.
+ * Quality architecture allowed transition between disjoint artifact storage on
+   Windows and Linux to Artifactory resulting in zero downtime for 100s of
    users.
+ * Collaborated with production staff to create seamless release processes.
  * Managed Jira, Bitbucket, Jenkins, Teamcity, SonarCube instances that were
    part of the DevOps infrastructure.
  * Supported releases to operations facilities in North America, EMEA, and APAC
