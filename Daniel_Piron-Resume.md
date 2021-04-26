@@ -6,9 +6,9 @@ dannypiron@gmail.com • 718-570-6310
 
 ## Expert Software Toolsmith
 
- * Developed trading platform test framework for spotting errors during CI build.
- * Comprehensive report generation increased visibility of release progress and
-   application interdependency.
+ * Developed scriptable trading application test framework identifying flaws early
+   in the development life cycle.
+ * Interwove data from several DevOps tools creating a comprehensive view of release progress.
  * Seasoned change agent, introducing new technologies, products, standards,
    and processes.
  * Hands-on development, project management, QA and technical operations
@@ -28,25 +28,26 @@ dannypiron@gmail.com • 718-570-6310
 
 _Leading Options Market Making Application_ • 2005-Present
 
- * Developed scriptable trading application test framework development.
-   Scripting language allowed users to specify database, market data, quant,
-   and GUI user inputs with assertions for matching expected application.
- * Created regression test utility for detecting quant code inconsistencies through
-   KDB trade replay, reliability reproducing curve movement for comparison.
- * Built a daily release impact report combining data from Jira, Bitbucket, and
-   our build system to dramatically improve transparency of the current state
-   of releases.
+ * Developed scriptable trading application test framework allowing users to
+   specify database, market data, quant, and GUI user inputs with assertions
+   for matching expected application outputs.
+ * Created regression test utility for detecting quant code inconsistencies
+   through KDB trade replay, reliability reproducing curve movement for
+   inter-release comparison.
+ * Built a daily release impact report interweaving data from Jira, Bitbucket,
+   and custom build system to dramatically improve transparency of state of
+   releases.
  * Designed C++ wrapper library for ITRS monitoring XMLRPC API for reporting
    internal performance statistics improving allocation of production resources.
    Library widely adopted by C++ based teams throughout Citi.
  * Tied Jira workflow to Bitbucket pull request approval and merge process
    promoting an audit friendly clean hand-off between Dev and QA.
  * Collaborated with production staff to create seamless release processes.
- * Lead effort to transition hundreds of developers from disparate teams
+ * Lead effort to transition hundreds of developers, from disparate teams,
    and thousands of build artifacts from Perforce to Git.
- * Quality of architecture allowed transition between disparate artifact
-   storage on Windows and Linux to Artifactory resulting in zero downtime for
-   100s of users.
+ * Quality of architecture allowed transition between disjoint artifact storage
+   on Windows and Linux to Artifactory resulting in zero downtime for 100s of
+   users.
  * Managed Jira, Bitbucket, Jenkins, Teamcity, SonarCube instances that were
    part of the DevOps infrastructure.
  * Supported releases to operations facilities in North America, EMEA, and APAC
