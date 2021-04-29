@@ -6,17 +6,16 @@ dannypiron@gmail.com • 718-570-6310
 
 ## Expert Software Toolsmith
 
- * Developed scriptable trading application test framework identifying flaws early
-   in the development life cycle.
- * Interwove data from several DevOps tools creating a comprehensive view of release progress.
+ * Designed and developed scriptable test framework for new trading
+   infrustructure components.
+ * Deep understanding of the design concepts of complex low latency distributed
+   systems.
  * Seasoned change agent, introducing new technologies, products, standards,
    and processes.
  * Hands-on development, project management, QA and technical operations
-   experience
- * Lead team of 4 in unifying multiple disparate CI builds across languages and
-   platforms and dev teams.
- * Skilled in low level library writing with an emphasis on clean interfaces
-   and portability.
+   experience.
+ * Skilled in SOLID object-oriented programming design with an emphasis on
+   clean interfaces and portability.
  * Communication, decision-making, and public speaking skills; bilingual
    (English and Spanish)
 
@@ -24,34 +23,28 @@ dannypiron@gmail.com • 718-570-6310
 
 ### Citigroup Derivatives Markets Incorporated (CDMI)
 
-**AVP/VP**
+**VP**
 
 _Leading Options Market Making Application_ • 2005-Present
 
- * Developed scriptable trading application test framework allowing users to
+ * Developed scriptable quoting engine test framework in C++ allowing users to
    specify database, market data, quant, and GUI user inputs with assertions
-   for matching expected application outputs.
+   for verifying expected behavior.
  * Created regression test utility for detecting quant code inconsistencies
-   through KDB trade replay, reliability reproducing curve movement for
-   inter-release comparison.
+   through KDB trade replay.
  * Built a daily release impact report interweaving data from Jira, Bitbucket,
-   and custom build system to dramatically improve transparency of state of
-   releases.
+   and custom build system to dramatically improve transparency of release state.
  * Designed C++ wrapper library for ITRS monitoring XMLRPC API for reporting
    internal performance statistics improving allocation of production resources.
    Library widely adopted by C++ based teams throughout Citi.
  * Tied Jira workflow to Bitbucket pull request approval and merge process
-   promoting an audit friendly clean hand-off between Dev and QA.
+   promoting audit friendly SDLC process and clean Dev to QA hand-off.
  * Lead Python rewrite of in-house multi-language (C++, C#, Java) and
    cross-platform (Windows & Linux) dependency management and build system,
-   maintaining significant backwards compatibility with legacy system setting
-   the stage for a Perforce to Git transition.
+   setting the stage for a Perforce to Git transition.
  * Quality architecture allowed transition between disjoint artifact storage on
-   Windows and Linux to Artifactory resulting in zero downtime for 100s of
-   users.
+   Windows and Linux to Artifactory resulting in zero downtime for 100s of clients.
  * Collaborated with production staff to create seamless release processes.
- * Managed Jira, Bitbucket, Jenkins, Teamcity, SonarCube instances that were
-   part of the DevOps infrastructure.
  * Supported releases to operations facilities in North America, EMEA, and APAC
    regions.
  * Conducted a weekly series of hour long educational sessions to provide
@@ -62,9 +55,10 @@ _Leading Options Market Making Application_ • 2005-Present
  * Consistently called upon to troubleshoot issues in development, QA, and
    Production environments going above and beyond expected duties using various
    tools including code comparison, debuggers and dependency analyzers.
- * Adapted SonarCube reporting into custom builds workflow.
 
 ### el-bohio.com, Queens, NY
+
+**Web Development & Photographer**
 
 _World-class photography and cultural website_ • 2001-2006
 
