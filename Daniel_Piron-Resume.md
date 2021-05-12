@@ -4,7 +4,7 @@ dannypiron@gmail.com • 718-570-6310
 
 -------------------------------------------------------------------------------
 
-## Expert Software Toolsmith
+## Senior Software Engineer
 
  * Designed and developed scriptable test framework for new trading
    infrustructure components.
