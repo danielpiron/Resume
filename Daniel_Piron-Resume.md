@@ -4,18 +4,16 @@
 
 -------------------------------------------------------------------------------
 
-## Senior Software Engineer
+## Senior DevOps Engineer
 
- * Designed and developed scriptable test framework for new trading
-   infrustructure components.
- * Deep understanding of the design concepts of complex low latency distributed
-   systems.
  * Seasoned change agent, introducing new technologies, products, standards,
    and processes.
  * Hands-on development, project management, QA and technical operations
    experience.
  * Skilled in SOLID object-oriented programming design with an emphasis on
    clean interfaces and portability.
+ * Deep understanding of the design concepts of complex low latency distributed
+   systems.
  * Communication, decision-making, and public speaking skills; bilingual
    (English and Spanish)
 
@@ -26,35 +24,35 @@
 **VP**
 
 _Leading Options Market Making Application_ • 2005-Present
-
- * Developed scriptable quoting engine test framework in C++ allowing users to
-   specify database, market data, quant, and GUI user inputs with assertions
-   for verifying expected behavior.
- * Created regression test utility for detecting quant code inconsistencies
-   through KDB trade replay.
+ * Designed and built in-house multi-language (C++, C#, Java) and
+   cross-platform (Windows & Linux) dependency management and build system,
+   setting the stage for a Perforce to Git transition.
  * Built a daily release impact report interweaving data from Jira, Bitbucket,
    and custom build system to dramatically improve transparency of release state.
+ * Tied Jira workflow to Bitbucket pull request approval and merge process
+   promoting audit compliant SDLC process and clean Dev to QA hand-off.
+ * Migrated disparate artifact storage on Windows and Linux to unified
+   Artifactory strategy resulting in zero downtime for 100s of clients.
  * Designed C++ wrapper library for ITRS monitoring XMLRPC API for reporting
    internal performance statistics improving allocation of production resources.
    Library widely adopted by C++ based teams throughout Citi.
- * Tied Jira workflow to Bitbucket pull request approval and merge process
-   promoting audit friendly SDLC process and clean Dev to QA hand-off.
- * Lead Python rewrite of in-house multi-language (C++, C#, Java) and
-   cross-platform (Windows & Linux) dependency management and build system,
-   setting the stage for a Perforce to Git transition.
- * Quality architecture allowed transition between disjoint artifact storage on
-   Windows and Linux to Artifactory resulting in zero downtime for 100s of clients.
  * Collaborated with production staff to create seamless release processes.
+ * Maintained and administered instances of Jira, Bitbucket, Jenkins, and Sonarqube.
  * Supported releases to operations facilities in North America, EMEA, and APAC
    regions.
  * Conducted a weekly series of hour long educational sessions to provide
    training and insight to our tools and build process improving user
    competence and satisfaction.
- * Developed Docker based prototype build and runtime environments for
-   application transitioning from Windows .NET to DotNET Core on Linux.
+ * Initiated Docker prototype build and runtime environments for application
+   transitioning from Windows .NET to DotNET Core on Linux.
  * Consistently called upon to troubleshoot issues in development, QA, and
    Production environments going above and beyond expected duties using various
    tools including code comparison, debuggers and dependency analyzers.
+ * Developed scriptable quoting engine test framework in C++ allowing users to
+   specify database, market data, quant, and GUI user inputs with assertions
+   for verifying expected behavior.
+ * Created regression test utility for detecting quant code inconsistencies
+   through KDB trade replay.
 
 ### el-bohio.com, Queens, NY
 
