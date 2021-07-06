@@ -30,6 +30,11 @@ _Leading Options Market Making Application_ • 2005-Present
  * Developed scriptable quoting engine test framework in C++ allowing users to
    specify database, market data, quant, and GUI user inputs with assertions
    for verifying expected behavior.
+ * Architected and owned CCM "Citi Code Management", an in-house multi-language
+   (C++, C#, Java) and cross-platform (Windows & Linux) dependency management
+   and build system used by teams across Equities.
+ * Quality architecture allowed transition between disjoint artifact storage on
+   Windows and Linux to Artifactory resulting in zero downtime for 100s of clients.
  * Created regression test utility for detecting quant code inconsistencies
    through KDB trade replay.
  * Built a daily release impact report interweaving data from Jira, Bitbucket,
@@ -39,11 +44,6 @@ _Leading Options Market Making Application_ • 2005-Present
    Library widely adopted by C++ based teams throughout Citi.
  * Tied Jira workflow to Bitbucket pull request approval and merge process
    promoting audit friendly SDLC process and clean Dev to QA hand-off.
- * Lead Python rewrite of in-house multi-language (C++, C#, Java) and
-   cross-platform (Windows & Linux) dependency management and build system,
-   setting the stage for a Perforce to Git transition.
- * Quality architecture allowed transition between disjoint artifact storage on
-   Windows and Linux to Artifactory resulting in zero downtime for 100s of clients.
  * Collaborated with production staff to create seamless release processes.
  * Supported releases to operations facilities in North America, EMEA, and APAC
    regions.
